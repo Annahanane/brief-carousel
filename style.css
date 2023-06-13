@@ -1,0 +1,41 @@
+
+.corousel{
+    width: 900px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+   
+}
+.bouton{
+    margin: 20px;
+    position:relative;
+    align-self: start;
+    text-align: center;
+}
+button{
+    background-color: aquamarine;
+    margin: 20px;
+    height: 30px;
+    width: 100px;
+}
+
+
+.images{
+        position:relative;
+        border: solid 4px rgb(36, 15, 56);
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        margin: 50px auto;
+        height:600px ;
+        width: 800px; 
+        overflow: hidden;  
+}
+      
+.image{
+        position: relative;
+        width: 100%;
+        height: 100%; 
+        
+            
+}          
